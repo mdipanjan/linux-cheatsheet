@@ -30,4 +30,4 @@
 | Show your current screen sessions |  `screen -list`  | 
 | Activate commands for screen. |  `CTRL A`  | 
 | Start a names screen session | `screen -S screenName` |
-
+| Kill a screen proces | `screen -S -X screenName  quit` |
